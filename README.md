@@ -15,7 +15,7 @@ La arquitectura de este sistema es:
 ![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/blob/master/arquitectura.png)
 
 El montaje del circuito tiene la siguiente forma:
-![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/blob/master/esquema.jpg)
+![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/blob/master/esquema_electronico.jpg)
 
 En este repositorio se encuentra la guía.
 Es necesario tener instalado el soporte Arduino para la ESP32: https://github.com/espressif/arduino-esp32#installation-instructions
