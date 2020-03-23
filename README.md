@@ -12,10 +12,10 @@ El comando de voz es particularmente funcional para escenarios dónde un disposi
 En esta guía se presenta un dispositivo interruptor comandado por voz, basado en el microcontrolador ESP32. El sistema consume múltiples servicios web de IFTTT, Adafruit, Amazon y Google, a través de diversas librerías e interfaces web que permiten el ensamble de la lógica en línea. El comando por voz es entregado a Google Assistant o a Amazon Alexa, según facilidad del usuario o del desarrollador para proponer soluciones más complejas.
 
 La arquitectura de este sistema es:
-![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/arquitectura.png)
+![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/blob/master/arquitectura.png)
 
 El montaje del circuito tiene la siguiente forma:
-![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/esquema.jpg)
+![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/blob/master/esquema.jpg)
 
 En este repositorio se encuentra la guía.
 Es necesario tener instalado el soporte Arduino para la ESP32: https://github.com/espressif/arduino-esp32#installation-instructions
