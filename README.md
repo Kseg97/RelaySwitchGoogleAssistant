@@ -18,7 +18,10 @@ El montaje del circuito tiene la siguiente forma:
 ![Image description](https://github.com/Kseg97/RelaySwitchGoogleAssistant/blob/master/esquema_electronico.jpg)
 
 En este repositorio se encuentra la guía.
-Es necesario tener instalado el soporte Arduino para la ESP32: https://github.com/espressif/arduino-esp32#installation-instructions
+Es necesario tener instalado el soporte Arduino para la ESP32: 
+https://github.com/espressif/arduino-esp32#installation-instructions
+y la librería Adafruit MQTT:
+https://github.com/adafruit/Adafruit_MQTT_Library
 
 ## Video 📢
 Para  observar la puesta en funcionamiento de la práctica, se a creado un vídeo en donde se visualizan los principales detalles del sistema. Cualquier observación, retroalimentación o duda la puedes dejar en los comentarios del vídeo, si te fue de utilidad déjanos tu like.
