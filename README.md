@@ -31,6 +31,7 @@ https://youtu.be/CBme-MJ9aC8
 ## Autor ✒
 
 * **Camilo Andrés Segura** - *Trabajo Inicial* - [Usuario Github](https://github.com/kseg97)
+* **Cristian Felipe Victoria** - *Promotor mecenas*
 
 ## Expresiones de Gratitud 🎁
 
